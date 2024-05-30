@@ -24,7 +24,7 @@ Contributions are always welcome!
 - [x] [An introduction to the Linux boot and startup processes](https://opensource.com/article/17/2/linux-boot-and-startup)
 - [x] [What happens when we turn on computer?](https://www.cdn.geeksforgeeks.org/what-happens-when-we-turn-on-computer)
 - [x] [What happens when we turn on computer?](https://leetcode.com/discuss/interview-question/125107/What-happens-when-we-turn-on-computer)
-- [ ] [From Power up to login prompt](http://www.scott-a-s.com/files/linux_boot.pdf)  
+- [x] [From Power up to login prompt](http://www.scott-a-s.com/files/linux_boot.pdf)  
 The Linux boot process is conceptually broken up into five main stages:  
   • BIOS: hardware initialization, gets boot loader up  
   • Boot Loader: loads kernel into executable state  
