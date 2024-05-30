@@ -285,4 +285,4 @@ Contributions are always welcome!
 
 ## My Learning
 
- - [x]  [Kernal Basics](https://github.com/rajni0829/kernal-basics)
+ - [ ]  [Kernal Basics](https://github.com/rajni0829/kernal-basics)
