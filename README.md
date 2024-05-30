@@ -231,7 +231,7 @@ Contributions are always welcome!
 
 ### Interview Questions
 
-- [ ] [A collection of questions to practice with for SRE interviews](https://github.com/michael-kehoe/sre-interview)
+- [ ] [A collection of questions to practice with for SRE interviews](https://github.com/rajni0829/kernal-basics)
 - [ ] [SRE Interview Questions](https://syedali.net/engineer-interview-questions)
 - [ ] [Sysadmin Test Questions](https://github.com/trimstray/test-your-sysadmin-skills)
 - [ ] [Kubernetes job interview questions](https://enterprisersproject.com/article/2019/2/kubernetes-job-interview-questions-how-prepare)
