@@ -285,7 +285,7 @@ Contributions are always welcome!
 
 ## My Learning
 
-# 1. - [x] Kernel Basics
+## 1. Kernel Basics
 
 *Q: What tasks are performed by the kernel?*
 A:
@@ -307,7 +307,7 @@ A:
   * Korn Shell (ksh)
   * Bourne again Shell (BASH)
 
- # Long-form Questions
+ ### Long-form Questions
 
 *Q: Describe the boot process of a Linux System?*
 
@@ -325,7 +325,7 @@ A: See [https://www.slashroot.in/secure-shell-how-does-ssh-work](https://www.sla
 *Q: Explain how network packets are processed from the NIC to user-space?*
 *Q: Describe how a reimaging system works?*
 
-# Linux history
+### Linux history
 
 *Q: What is POSIX?*
 
