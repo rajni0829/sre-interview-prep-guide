@@ -285,7 +285,7 @@ Contributions are always welcome!
 
 ## My Learning
 
-## 1. Kernel Basics
+ - [x]  Kernal Basics
 
 *Q: What tasks are performed by the kernel?*
 A:
