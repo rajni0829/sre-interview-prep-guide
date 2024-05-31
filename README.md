@@ -34,8 +34,8 @@ The Linux boot process is conceptually broken up into five main stages:
 
 ### Filesystem
 
-- [ ] [Understanding Inodes](https://syedali.net/2015/02/08/understanding-inodes)
-- [ ] [Understand UNIX / Linux Inodes Basics with Examples](https://www.thegeekstuff.com/2012/01/linux-inodes)
+- [x] [Understanding Inodes](https://syedali.net/2015/02/08/understanding-inodes)
+- [x] [Understand UNIX / Linux Inodes Basics with Examples](https://www.thegeekstuff.com/2012/01/linux-inodes)
 - [ ] [Understanding proc filesystem](https://syedali.net/2013/08/20/understanding-proc-filesystem)
 - [ ] [Common Mount Options](https://syedali.net/2015/01/06/common-mount-options)
 - [ ] [Understanding Linux filesystems: ext4 and beyond](https://opensource.com/article/18/4/ext4-filesystem)
